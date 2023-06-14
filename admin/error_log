@@ -1,0 +1,5 @@
+[11-May-2023 19:15:35 America/Caracas] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_assoc(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/jfdesous/public_html/tv3.jfdesousa.com/admin/orden.php:377
+Stack trace:
+#0 /home/jfdesous/public_html/tv3.jfdesousa.com/admin/orden.php(377): mysqli_fetch_assoc(false)
+#1 {main}
+  thrown in /home/jfdesous/public_html/tv3.jfdesousa.com/admin/orden.php on line 377
